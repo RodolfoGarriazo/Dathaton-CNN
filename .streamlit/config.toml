@@ -1,2 +1,2 @@
-'[server]' 
-'python = "3.12"' 
+[server]
+python = "3.12"
